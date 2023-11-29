@@ -25,7 +25,8 @@ def gcd():
 ```
 
 ## Output:
-![Screenshot 2023-11-29 202106](https://github.com/ALANZION/Square-root-of-a-number/assets/145743064/1b8cc426-b002-4b25-9a3d-9fea024b6085)
+
+![Screenshot 2023-11-29 202106](https://github.com/ALANZION/Square-root-of-a-number/assets/145743064/280b66f1-463c-4ac5-a929-8c34e8deb892)
 
 
 
