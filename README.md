@@ -25,7 +25,7 @@ def gcd():
 ```
 
 ## Output:
-![Alt text](image.png)
+![Alt text](<Screenshot 2023-11-29 202106.png>)
 
 
 ## Result:
