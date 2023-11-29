@@ -16,12 +16,15 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-def gcd():
-    import math
-    a=int(input())
-    b=int(input())
-    c=math.gcd(a,b)
-    print("GCD of two numbers is:",c)
+ef square_root_newton(number):
+    x=number/2.0
+    iterations=100
+    for i in range(iterations):
+        x=0.5*(x+number/x)
+    return x
+a=int(input())
+result=square_root_newton(a)
+print("Square root of the number:",result) 
 ```
 
 ## Output:
